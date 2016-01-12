@@ -2,3 +2,5 @@
 First stab @ typescript
 
 Initializing typescripts katas
+
+checks
