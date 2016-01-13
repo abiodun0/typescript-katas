@@ -13,10 +13,10 @@ var pointer = {
 };
 
 
-// use interfaces to build tpe ints
+// use interfaces to build type inting
 interface Pointers{
-    x: number,
-    y: number
+    x: number;
+    y: number;
 } 
 
 // You can also extend interfaces to contain more interfaces
